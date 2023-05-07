@@ -10,3 +10,5 @@ The objective of the game is to place light bulbs on the grid in such a way that
 1. Black cells cannot contain light bulbs.
 1. Each white cell must be illuminated by exactly one light bulb.
 1. Light bulbs cannot be adjacent to each other, neither vertically nor horizontally.
+
+The repository also contains automated marking code and Test files written by Professor Lyndon While, the `CITS1001`, Introduction to Object Oriented Programming, unit coordinator
