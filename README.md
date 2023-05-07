@@ -12,3 +12,11 @@ The objective of the game is to place light bulbs on the grid in such a way that
 1. Light bulbs cannot be adjacent to each other, neither vertically nor horizontally.
 
 The repository also contains automated marking code and Test files written by Professor Lyndon While, the `CITS1001`, Introduction to Object Oriented Programming, unit coordinator
+
+# Play Akari
+
+Ensure that you have Java installed.
+
+Compile game with `javac Akari.java`
+
+After game has been successfully compiled, play game by running the command `java Akari` and following the prompt on the screen. After level has been selected, a window should pop up and allow you to play the game
